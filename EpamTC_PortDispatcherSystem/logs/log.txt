@@ -1,0 +1,365 @@
+16:23:28  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 39
+Швартовка: 
+16:23:28  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 1
+16:23:28  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 2
+16:23:28  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 0
+16:23:33  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 72
+Швартовка: 
+16:23:33  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 1
+16:23:33  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 2
+16:23:33  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+16:23:38  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 89
+Швартовка: 
+16:23:38  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 1
+16:23:38  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 2
+16:23:38  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+23:04:35  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 79
+Швартовка: 
+23:04:35  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 2
+23:04:35  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+23:04:35  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+23:04:35  INFO Timer-0 Port:run:103 - Корабль Ship3  в очереди на швартовку 
+23:04:40  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 62
+Швартовка: 
+23:04:40  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 2
+23:04:40  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+23:04:40  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+23:04:40  INFO Timer-0 Port:run:103 - Корабль Ship1  в очереди на швартовку 
+23:04:45  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 63
+Швартовка: 
+23:04:45  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 1
+23:04:45  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 0
+23:04:50  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 58
+Швартовка: 
+23:04:50  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 1
+23:04:50  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 0
+23:07:51  INFO Timer-0 Port:run:90 - 
+Количество контейнеров на складе порта: 47
+Швартовка: 
+23:07:51  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 2
+23:07:51  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 1
+23:07:51  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+23:07:56  INFO Timer-0 Port:run:90 - 
+Количество контейнеров на складе порта: 31
+Швартовка: 
+23:07:56  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 0
+23:07:56  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 2
+23:07:56  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 1
+23:08:01  INFO Timer-0 Port:run:90 - 
+Количество контейнеров на складе порта: 1
+Швартовка: 
+23:08:01  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 0
+23:08:01  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+23:08:01  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 2
+23:08:01  INFO Timer-0 Port:run:103 - Корабль Ship5  в очереди на швартовку 
+23:08:06  INFO Timer-0 Port:run:90 - 
+Количество контейнеров на складе порта: 17
+Швартовка: 
+23:08:06  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 0
+23:08:06  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 1
+23:08:06  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 2
+23:08:06  INFO Timer-0 Port:run:103 - Корабль Ship3  в очереди на швартовку 
+23:12:13  INFO Timer-0 Port:run:90 - 
+
+23:12:13  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 75
+Швартовка: 
+23:12:13  INFO Timer-0 Port:run:98 - Корабль Ship3 у причала 1
+23:12:13  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 2
+23:12:13  INFO Timer-0 Port:run:98 - Корабль Ship1 у причала 0
+23:12:13  INFO Timer-0 Port:run:104 - Корабль Ship4  в очереди на швартовку 
+23:12:18  INFO Timer-0 Port:run:90 - 
+
+23:12:18  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 80
+Швартовка: 
+23:12:18  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 2
+23:12:18  INFO Timer-0 Port:run:98 - Корабль Ship4 у причала 0
+23:12:18  INFO Timer-0 Port:run:98 - Корабль Ship2 у причала 1
+23:12:23  INFO Timer-0 Port:run:90 - 
+
+23:12:23  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 71
+Швартовка: 
+23:12:23  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 0
+23:12:23  INFO Timer-0 Port:run:98 - Корабль Ship1 у причала 2
+23:12:23  INFO Timer-0 Port:run:98 - Корабль Ship4 у причала 1
+23:12:23  INFO Timer-0 Port:run:104 - Корабль Ship2  в очереди на швартовку 
+23:12:28  INFO Timer-0 Port:run:90 - 
+
+23:12:28  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 31
+Швартовка: 
+23:12:28  INFO Timer-0 Port:run:98 - Корабль Ship3 у причала 2
+23:12:28  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 0
+23:12:28  INFO Timer-0 Port:run:98 - Корабль Ship2 у причала 1
+23:12:28  INFO Timer-0 Port:run:104 - Корабль Ship4  в очереди на швартовку 
+23:12:28  INFO Timer-0 Port:run:104 - Корабль Ship1  в очереди на швартовку 
+11:56:02  INFO Timer-0 Port:run:90 - 
+
+11:56:02  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 63
+Швартовка: 
+11:56:02  INFO Timer-0 Port:run:98 - Корабль Ship3 у причала 0
+11:56:02  INFO Timer-0 Port:run:98 - Корабль Ship4 у причала 1
+11:56:02  INFO Timer-0 Port:run:98 - Корабль Ship2 у причала 2
+11:56:07  INFO Timer-0 Port:run:90 - 
+
+11:56:07  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 77
+Швартовка: 
+11:56:07  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 2
+11:56:07  INFO Timer-0 Port:run:98 - Корабль Ship1 у причала 1
+11:56:07  INFO Timer-0 Port:run:98 - Корабль Ship4 у причала 0
+11:56:07  INFO Timer-0 Port:run:104 - Корабль Ship3  в очереди на швартовку 
+11:56:07  INFO Timer-0 Port:run:104 - Корабль Ship2  в очереди на швартовку 
+11:56:12  INFO Timer-0 Port:run:90 - 
+
+11:56:12  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 76
+Швартовка: 
+11:56:12  INFO Timer-0 Port:run:98 - Корабль Ship3 у причала 2
+11:56:12  INFO Timer-0 Port:run:98 - Корабль Ship1 у причала 1
+11:56:17  INFO Timer-0 Port:run:90 - 
+
+11:56:17  INFO Timer-0 Port:run:91 - Количество контейнеров на складе порта: 62
+Швартовка: 
+11:56:17  INFO Timer-0 Port:run:98 - Корабль Ship5 у причала 0
+11:56:17  INFO Timer-0 Port:run:98 - Корабль Ship4 у причала 1
+12:15:33  INFO Timer-0 Port:run:89 - 
+
+12:15:33  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 22
+Швартовка: 
+12:15:33  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 2
+12:15:33  INFO Timer-0 Port:run:97 - Корабль Ship1 у причала 0
+12:15:33  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+12:15:33  INFO Timer-0 Port:run:103 - Корабль Ship5  в очереди на швартовку 
+12:15:38  INFO Timer-0 Port:run:89 - 
+
+12:15:38  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 22
+Швартовка: 
+12:15:38  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 0
+12:15:38  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+12:15:38  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 2
+12:15:38  INFO Timer-0 Port:run:103 - Корабль Ship1  в очереди на швартовку 
+12:15:43  INFO Timer-0 Port:run:89 - 
+
+12:15:43  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 6
+Швартовка: 
+12:15:43  INFO Timer-0 Port:run:97 - Корабль Ship5 у причала 0
+12:15:43  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+12:15:48  INFO Timer-0 Port:run:89 - 
+
+12:15:48  INFO Timer-0 Port:run:90 - Количество контейнеров на складе порта: 9
+Швартовка: 
+12:15:48  INFO Timer-0 Port:run:97 - Корабль Ship3 у причала 2
+12:15:48  INFO Timer-0 Port:run:97 - Корабль Ship4 у причала 1
+12:15:48  INFO Timer-0 Port:run:97 - Корабль Ship2 у причала 0
+12:15:48  INFO Timer-0 Port:run:103 - Корабль Ship1  в очереди на швартовку 
+15:33:10  INFO Timer-0 Port:run:86 - 
+
+15:33:10  INFO Timer-0 Port:run:87 - Количество контейнеров на складе порта: 36
+Швартовка: 
+15:33:10  INFO Timer-0 Port:run:92 - Корабль Ship5 у причала 2
+15:33:10  INFO Timer-0 Port:run:92 - Корабль Ship3 у причала 1
+15:33:10  INFO Timer-0 Port:run:92 - Корабль Ship2 у причала 0
+15:33:10  INFO Timer-0 Port:run:97 - Корабль Ship1  в очереди на швартовку 
+15:33:10  INFO Timer-0 Port:run:97 - Корабль Ship4  в очереди на швартовку 
+15:33:15  INFO Timer-0 Port:run:86 - 
+
+15:33:15  INFO Timer-0 Port:run:87 - Количество контейнеров на складе порта: 51
+Швартовка: 
+15:33:15  INFO Timer-0 Port:run:92 - Корабль Ship1 у причала 1
+15:33:15  INFO Timer-0 Port:run:92 - Корабль Ship3 у причала 2
+15:33:15  INFO Timer-0 Port:run:92 - Корабль Ship4 у причала 0
+15:33:15  INFO Timer-0 Port:run:97 - Корабль Ship5  в очереди на швартовку 
+15:33:15  INFO Timer-0 Port:run:97 - Корабль Ship2  в очереди на швартовку 
+15:33:20  INFO Timer-0 Port:run:86 - 
+
+15:33:20  INFO Timer-0 Port:run:87 - Количество контейнеров на складе порта: 67
+Швартовка: 
+15:33:20  INFO Timer-0 Port:run:92 - Корабль Ship5 у причала 1
+15:33:20  INFO Timer-0 Port:run:92 - Корабль Ship2 у причала 0
+15:33:20  INFO Timer-0 Port:run:92 - Корабль Ship4 у причала 2
+15:33:20  INFO Timer-0 Port:run:97 - Корабль Ship1  в очереди на швартовку 
+15:33:20  INFO Timer-0 Port:run:97 - Корабль Ship3  в очереди на швартовку 
+15:33:25  INFO Timer-0 Port:run:86 - 
+
+15:33:25  INFO Timer-0 Port:run:87 - Количество контейнеров на складе порта: 80
+Швартовка: 
+15:33:25  INFO Timer-0 Port:run:92 - Корабль Ship5 у причала 2
+15:33:25  INFO Timer-0 Port:run:92 - Корабль Ship2 у причала 0
+18:54:18  INFO Timer-0 Port:run:129 - 
+
+18:54:18  INFO Timer-0 Port:run:130 - Количество контейнеров на складе порта: 26
+Швартовка: 
+18:54:18  INFO Timer-0 Port:run:135 - Корабль Ship5 у причала 2
+18:54:18  INFO Timer-0 Port:run:135 - Корабль Ship2 у причала 0
+18:54:18  INFO Timer-0 Port:run:135 - Корабль Ship4 у причала 1
+18:54:18  INFO Timer-0 Port:run:140 - Корабль Ship1  в очереди на швартовку 
+18:54:23  INFO Timer-0 Port:run:129 - 
+
+18:54:23  INFO Timer-0 Port:run:130 - Количество контейнеров на складе порта: 0
+Швартовка: 
+18:54:23  INFO Timer-0 Port:run:135 - Корабль Ship1 у причала 2
+18:54:23  INFO Timer-0 Port:run:135 - Корабль Ship2 у причала 0
+18:54:23  INFO Timer-0 Port:run:135 - Корабль Ship4 у причала 1
+18:54:23  INFO Timer-0 Port:run:140 - Корабль Ship3  в очереди на швартовку 
+18:54:28  INFO Timer-0 Port:run:129 - 
+
+18:54:28  INFO Timer-0 Port:run:130 - Количество контейнеров на складе порта: 36
+Швартовка: 
+18:54:28  INFO Timer-0 Port:run:135 - Корабль Ship1 у причала 1
+18:54:28  INFO Timer-0 Port:run:135 - Корабль Ship5 у причала 2
+18:54:28  INFO Timer-0 Port:run:135 - Корабль Ship2 у причала 0
+18:54:28  INFO Timer-0 Port:run:140 - Корабль Ship3  в очереди на швартовку 
+18:54:33  INFO Timer-0 Port:run:129 - 
+
+18:54:33  INFO Timer-0 Port:run:130 - Количество контейнеров на складе порта: 49
+Швартовка: 
+18:54:33  INFO Timer-0 Port:run:135 - Корабль Ship5 у причала 2
+18:54:33  INFO Timer-0 Port:run:135 - Корабль Ship2 у причала 0
+18:54:33  INFO Timer-0 Port:run:135 - Корабль Ship4 у причала 1
+08:28:23  INFO Timer-0 Port:run:127 - 
+
+08:28:23  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 63
+Швартовка: 
+08:28:23  INFO Timer-0 Port:run:133 - Корабль Ship5 у причала 2
+08:28:23  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 0
+08:28:23  INFO Timer-0 Port:run:133 - Корабль Ship4 у причала 1
+08:28:28  INFO Timer-0 Port:run:127 - 
+
+08:28:28  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 88
+Швартовка: 
+08:28:28  INFO Timer-0 Port:run:133 - Корабль Ship1 у причала 0
+08:28:28  INFO Timer-0 Port:run:133 - Корабль Ship3 у причала 1
+08:28:28  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 2
+08:28:28  INFO Timer-0 Port:run:138 - Корабль Ship4  в очереди на швартовку 
+08:28:33  INFO Timer-0 Port:run:127 - 
+
+08:28:33  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 75
+Швартовка: 
+08:28:33  INFO Timer-0 Port:run:133 - Корабль Ship4 у причала 2
+08:28:38  INFO Timer-0 Port:run:127 - 
+
+08:28:38  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 78
+Швартовка: 
+08:28:38  INFO Timer-0 Port:run:133 - Корабль Ship1 у причала 1
+08:28:38  INFO Timer-0 Port:run:133 - Корабль Ship3 у причала 2
+08:28:38  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 0
+08:48:17  INFO Timer-0 Port:run:127 - 
+
+08:48:17  INFO Timer-0 Port:run:128 - РљРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ РЅР° СЃРєР»Р°РґРµ РїРѕСЂС‚Р°: 11
+РЁРІР°СЂС‚РѕРІРєР°: 
+08:48:17  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship5 Сѓ РїСЂРёС‡Р°Р»Р° 1
+08:48:17  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship3 Сѓ РїСЂРёС‡Р°Р»Р° 2
+08:48:17  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship2 Сѓ РїСЂРёС‡Р°Р»Р° 0
+08:48:17  INFO Timer-0 Port:run:138 - РљРѕСЂР°Р±Р»СЊ Ship4  РІ РѕС‡РµСЂРµРґРё РЅР° С€РІР°СЂС‚РѕРІРєСѓ 
+08:48:22  INFO Timer-0 Port:run:127 - 
+
+08:48:22  INFO Timer-0 Port:run:128 - РљРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ РЅР° СЃРєР»Р°РґРµ РїРѕСЂС‚Р°: 17
+РЁРІР°СЂС‚РѕРІРєР°: 
+08:48:22  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship1 Сѓ РїСЂРёС‡Р°Р»Р° 1
+08:48:22  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship5 Сѓ РїСЂРёС‡Р°Р»Р° 0
+08:48:22  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship4 Сѓ РїСЂРёС‡Р°Р»Р° 2
+08:48:22  INFO Timer-0 Port:run:138 - РљРѕСЂР°Р±Р»СЊ Ship2  РІ РѕС‡РµСЂРµРґРё РЅР° С€РІР°СЂС‚РѕРІРєСѓ 
+08:48:27  INFO Timer-0 Port:run:127 - 
+
+08:48:27  INFO Timer-0 Port:run:128 - РљРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ РЅР° СЃРєР»Р°РґРµ РїРѕСЂС‚Р°: 6
+РЁРІР°СЂС‚РѕРІРєР°: 
+08:48:27  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship3 Сѓ РїСЂРёС‡Р°Р»Р° 1
+08:48:27  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship2 Сѓ РїСЂРёС‡Р°Р»Р° 2
+08:48:27  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship4 Сѓ РїСЂРёС‡Р°Р»Р° 0
+08:48:27  INFO Timer-0 Port:run:138 - РљРѕСЂР°Р±Р»СЊ Ship1  РІ РѕС‡РµСЂРµРґРё РЅР° С€РІР°СЂС‚РѕРІРєСѓ 
+08:48:32  INFO Timer-0 Port:run:127 - 
+
+08:48:32  INFO Timer-0 Port:run:128 - РљРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ РЅР° СЃРєР»Р°РґРµ РїРѕСЂС‚Р°: 22
+РЁРІР°СЂС‚РѕРІРєР°: 
+08:48:32  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship5 Сѓ РїСЂРёС‡Р°Р»Р° 2
+08:48:32  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship2 Сѓ РїСЂРёС‡Р°Р»Р° 1
+08:48:32  INFO Timer-0 Port:run:133 - РљРѕСЂР°Р±Р»СЊ Ship4 Сѓ РїСЂРёС‡Р°Р»Р° 0
+08:48:32  INFO Timer-0 Port:run:138 - РљРѕСЂР°Р±Р»СЊ Ship1  РІ РѕС‡РµСЂРµРґРё РЅР° С€РІР°СЂС‚РѕРІРєСѓ 
+08:54:29  INFO Timer-0 Port:run:127 - 
+
+08:54:29  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 37
+Швартовка: 
+08:54:29  INFO Timer-0 Port:run:133 - Корабль Ship1 у причала 1
+08:54:29  INFO Timer-0 Port:run:133 - Корабль Ship3 у причала 2
+08:54:29  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 0
+08:54:29  INFO Timer-0 Port:run:138 - Корабль Ship5  в очереди на швартовку 
+08:54:29  INFO Timer-0 Port:run:138 - Корабль Ship4  в очереди на швартовку 
+08:54:34  INFO Timer-0 Port:run:127 - 
+
+08:54:34  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 5
+Швартовка: 
+08:54:34  INFO Timer-0 Port:run:133 - Корабль Ship1 у причала 1
+08:54:34  INFO Timer-0 Port:run:133 - Корабль Ship5 у причала 2
+08:54:34  INFO Timer-0 Port:run:133 - Корабль Ship3 у причала 0
+08:54:34  INFO Timer-0 Port:run:138 - Корабль Ship4  в очереди на швартовку 
+08:54:39  INFO Timer-0 Port:run:127 - 
+
+08:54:39  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 12
+Швартовка: 
+08:54:39  INFO Timer-0 Port:run:133 - Корабль Ship3 у причала 1
+08:54:39  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 0
+08:54:39  INFO Timer-0 Port:run:133 - Корабль Ship4 у причала 2
+08:54:44  INFO Timer-0 Port:run:127 - 
+
+08:54:44  INFO Timer-0 Port:run:128 - Количество контейнеров на складе порта: 33
+Швартовка: 
+08:54:44  INFO Timer-0 Port:run:133 - Корабль Ship2 у причала 1
+08:54:44  INFO Timer-0 Port:run:133 - Корабль Ship4 у причала 2
+08:57:36  INFO Timer-0 Port:run:127 - 
+
+08:57:36  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 65
+ў ав®ўЄ : 
+08:57:36  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  1
+08:57:36  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship2 г ЇаЁз «  0
+08:57:36  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  2
+08:57:36  INFO Timer-0 Port:run:138 - Љ®а Ў«м Ship5  ў ®зҐаҐ¤Ё ­  иў ав®ўЄг 
+08:57:41  INFO Timer-0 Port:run:127 - 
+
+08:57:41  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 56
+ў ав®ўЄ : 
+08:57:41  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship5 г ЇаЁз «  1
+08:57:41  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship3 г ЇаЁз «  0
+08:57:41  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  2
+08:57:46  INFO Timer-0 Port:run:127 - 
+
+08:57:46  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 39
+ў ав®ўЄ : 
+08:57:46  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  1
+08:57:46  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship3 г ЇаЁз «  2
+08:57:46  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship2 г ЇаЁз «  0
+08:57:51  INFO Timer-0 Port:run:127 - 
+
+08:57:51  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 23
+ў ав®ўЄ : 
+08:57:51  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  0
+08:57:51  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship5 г ЇаЁз «  2
+08:57:51  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  1
+08:57:51  INFO Timer-0 Port:run:138 - Љ®а Ў«м Ship3  ў ®зҐаҐ¤Ё ­  иў ав®ўЄг 
+09:51:24  INFO Timer-0 Port:run:127 - 
+
+09:51:24  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 52
+ў ав®ўЄ : 
+09:51:24  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  0
+09:51:24  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship2 г ЇаЁз «  1
+09:51:24  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  2
+09:51:24  INFO Timer-0 Port:run:138 - Љ®а Ў«м Ship5  ў ®зҐаҐ¤Ё ­  иў ав®ўЄг 
+09:51:24  INFO Timer-0 Port:run:138 - Љ®а Ў«м Ship3  ў ®зҐаҐ¤Ё ­  иў ав®ўЄг 
+09:51:29  INFO Timer-0 Port:run:127 - 
+
+09:51:29  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 54
+ў ав®ўЄ : 
+09:51:29  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  1
+09:51:29  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship5 г ЇаЁз «  0
+09:51:29  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  2
+09:51:29  INFO Timer-0 Port:run:138 - Љ®а Ў«м Ship3  ў ®зҐаҐ¤Ё ­  иў ав®ўЄг 
+09:51:34  INFO Timer-0 Port:run:127 - 
+
+09:51:34  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 37
+ў ав®ўЄ : 
+09:51:34  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship1 г ЇаЁз «  0
+09:51:34  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship5 г ЇаЁз «  2
+09:51:34  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship3 г ЇаЁз «  1
+09:51:39  INFO Timer-0 Port:run:127 - 
+
+09:51:39  INFO Timer-0 Port:run:128 - Љ®«ЁзҐбвў® Є®­вҐ©­Ґа®ў ­  бЄ« ¤Ґ Ї®ав : 30
+ў ав®ўЄ : 
+09:51:39  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship5 г ЇаЁз «  1
+09:51:39  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship2 г ЇаЁз «  0
+09:51:39  INFO Timer-0 Port:run:133 - Љ®а Ў«м Ship4 г ЇаЁз «  2

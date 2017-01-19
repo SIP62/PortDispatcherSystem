@@ -1,0 +1,1 @@
+java -Dfile.encoding=Cp866 -classpath Log4jLib/*;./bin by.bsuir.lab02.main.Main

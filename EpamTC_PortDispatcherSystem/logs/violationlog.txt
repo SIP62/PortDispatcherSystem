@@ -1,0 +1,67 @@
+12:15:36  INFO Thread-3 Ship:loadFromPort:187 - Корабль Ship3 превысил время загрузки на 780мс.
+12:15:40  INFO Thread-4 Ship:loadToPort:154 - Корабль Ship4 превысил время выгрузки на 1121мс.
+12:15:42  INFO Thread-1 Ship:loadFromPort:187 - Корабль Ship1 превысил время загрузки на 333мс.
+12:15:48  INFO Thread-3 Ship:loadToPort:154 - Корабль Ship3 превысил время выгрузки на 556мс.
+12:15:57  INFO Thread-3 Ship:loadFromPort:187 - Корабль Ship3 превысил время загрузки на 484мс.
+12:15:58  INFO Thread-1 Ship:loadToPort:154 - Корабль Ship1 превысил время выгрузки на 12мс.
+15:33:10  INFO Thread-2 Ship:loadFromPort:185 - Корабль Ship2 превысил время загрузки на 405мс.
+15:33:23  INFO Thread-1 Ship:loadFromPort:185 - Корабль Ship1 превысил время загрузки на 315мс.
+15:33:32  INFO Thread-4 Ship:loadFromPort:185 - Корабль Ship4 превысил время загрузки на 408мс.
+15:33:32  INFO Thread-5 Ship:loadToPort:152 - Корабль Ship5 превысил время выгрузки на 605мс.
+15:33:33  INFO Thread-3 Ship:loadFromPort:185 - Корабль Ship3 превысил время загрузки на 340мс.
+15:33:39  INFO Thread-1 Ship:loadToPort:152 - Корабль Ship1 превысил время выгрузки на 631мс.
+18:54:19  INFO Thread-5 Ship:loadToPort:212 - Корабль Ship5 превысил время выгрузки на 195мс.
+18:54:20  INFO Thread-2 Ship:loadFromPort:252 - Корабль Ship2 превысил время загрузки на 416мс.
+18:54:26  INFO Thread-4 Ship:loadToPort:212 - Корабль Ship4 превысил время выгрузки на 36мс.
+18:54:28  INFO Thread-5 Ship:loadFromPort:252 - Корабль Ship5 превысил время загрузки на 159мс.
+18:54:33  INFO Thread-2 Ship:loadToPort:212 - Корабль Ship2 превысил время выгрузки на 631мс.
+18:54:36  INFO Thread-5 Ship:loadToPort:212 - Корабль Ship5 превысил время выгрузки на 330мс.
+18:54:39  INFO Thread-1 Ship:loadFromPort:252 - Корабль Ship1 превысил время загрузки на 700мс.
+18:54:42  INFO Thread-4 Ship:loadFromPort:252 - Корабль Ship4 превысил время загрузки на 309мс.
+08:28:22  INFO Thread-3 Ship:loadToPort:207 - Корабль Ship3 превысил время выгрузки на 252мс.
+08:28:26  INFO Thread-4 Ship:loadToPort:207 - Корабль Ship4 превысил время выгрузки на 177мс.
+08:28:31  INFO Thread-3 Ship:loadToPort:207 - Корабль Ship3 превысил время выгрузки на 636мс.
+08:28:32  INFO Thread-1 Ship:loadToPort:207 - Корабль Ship1 превысил время выгрузки на 973мс.
+08:28:39  INFO Thread-1 Ship:loadFromPort:247 - Корабль Ship1 превысил время загрузки на 390мс.
+08:28:39  INFO Thread-2 Ship:loadToPort:207 - Корабль Ship2 превысил время выгрузки на 192мс.
+08:28:40  INFO Thread-3 Ship:loadFromPort:247 - Корабль Ship3 превысил время загрузки на 190мс.
+08:28:44  INFO Thread-4 Ship:loadFromPort:247 - Корабль Ship4 превысил время загрузки на 166мс.
+08:28:45  INFO Thread-5 Ship:loadFromPort:247 - Корабль Ship5 превысил время загрузки на 346мс.
+08:28:47  INFO Thread-2 Ship:loadToPort:207 - Корабль Ship2 превысил время выгрузки на 228мс.
+08:48:16  INFO Thread-1 Ship:loadFromPort:247 - РљРѕСЂР°Р±Р»СЊ Ship1 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ Р·Р°РіСЂСѓР·РєРё РЅР° 69РјСЃ.
+08:48:24  INFO Thread-4 Ship:loadToPort:207 - РљРѕСЂР°Р±Р»СЊ Ship4 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ РІС‹РіСЂСѓР·РєРё РЅР° 24РјСЃ.
+08:48:27  INFO Thread-3 Ship:loadFromPort:247 - РљРѕСЂР°Р±Р»СЊ Ship3 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ Р·Р°РіСЂСѓР·РєРё РЅР° 185РјСЃ.
+08:48:27  INFO Thread-2 Ship:loadFromPort:247 - РљРѕСЂР°Р±Р»СЊ Ship2 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ Р·Р°РіСЂСѓР·РєРё РЅР° 49РјСЃ.
+08:48:27  INFO Thread-4 Ship:loadToPort:207 - РљРѕСЂР°Р±Р»СЊ Ship4 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ РІС‹РіСЂСѓР·РєРё РЅР° 31РјСЃ.
+08:48:30  INFO Thread-3 Ship:loadFromPort:247 - РљРѕСЂР°Р±Р»СЊ Ship3 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ Р·Р°РіСЂСѓР·РєРё РЅР° 10РјСЃ.
+08:48:34  INFO Thread-4 Ship:loadFromPort:247 - РљРѕСЂР°Р±Р»СЊ Ship4 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ Р·Р°РіСЂСѓР·РєРё РЅР° 372РјСЃ.
+08:48:41  INFO Thread-4 Ship:loadToPort:207 - РљРѕСЂР°Р±Р»СЊ Ship4 РїСЂРµРІС‹СЃРёР» РІСЂРµРјСЏ РІС‹РіСЂСѓР·РєРё РЅР° 39РјСЃ.
+08:54:31  INFO Thread-3 Ship:loadFromPort:247 - Корабль Ship3 превысил время загрузки на 602мс.
+08:54:31  INFO Thread-1 Ship:loadToPort:207 - Корабль Ship1 превысил время выгрузки на 375мс.
+08:54:48  INFO Thread-1 Ship:loadFromPort:247 - Корабль Ship1 превысил время загрузки на 204мс.
+08:54:50  INFO Thread-4 Ship:loadFromPort:247 - Корабль Ship4 превысил время загрузки на 120мс.
+08:57:34  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  31¬б.
+08:57:39  INFO Thread-2 Ship:loadFromPort:247 - Љ®а Ў«м Ship2 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  382¬б.
+08:57:41  INFO Thread-5 Ship:loadFromPort:247 - Љ®а Ў«м Ship5 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  92¬б.
+08:57:42  INFO Thread-4 Ship:loadToPort:207 - Љ®а Ў«м Ship4 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  440¬б.
+08:57:45  INFO Thread-4 Ship:loadToPort:207 - Љ®а Ў«м Ship4 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  41¬б.
+08:57:45  INFO Thread-5 Ship:loadFromPort:247 - Љ®а Ў«м Ship5 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  204¬б.
+08:57:48  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  88¬б.
+08:57:49  INFO Thread-2 Ship:loadFromPort:247 - Љ®а Ў«м Ship2 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  232¬б.
+08:57:51  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  1¬б.
+08:57:58  INFO Thread-4 Ship:loadToPort:207 - Љ®а Ў«м Ship4 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  774¬б.
+08:57:59  INFO Thread-1 Ship:loadFromPort:247 - Љ®а Ў«м Ship1 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  15¬б.
+08:57:59  INFO Thread-5 Ship:loadFromPort:247 - Љ®а Ў«м Ship5 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  646¬б.
+08:58:02  INFO Thread-3 Ship:loadToPort:207 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  686¬б.
+09:51:24  INFO Thread-4 Ship:loadToPort:207 - Љ®а Ў«м Ship4 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  126¬б.
+09:51:24  INFO Thread-1 Ship:loadToPort:207 - Љ®а Ў«м Ship1 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  154¬б.
+09:51:26  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  75¬б.
+09:51:27  INFO Thread-2 Ship:loadFromPort:247 - Љ®а Ў«м Ship2 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  846¬б.
+09:51:32  INFO Thread-2 Ship:loadToPort:207 - Љ®а Ў«м Ship2 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  124¬б.
+09:51:34  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  418¬б.
+09:51:36  INFO Thread-5 Ship:loadToPort:207 - Љ®а Ў«м Ship5 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  144¬б.
+09:51:38  INFO Thread-3 Ship:loadFromPort:247 - Љ®а Ў«м Ship3 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  41¬б.
+09:51:39  INFO Thread-4 Ship:loadFromPort:247 - Љ®а Ў«м Ship4 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  312¬б.
+09:51:42  INFO Thread-1 Ship:loadFromPort:247 - Љ®а Ў«м Ship1 ЇаҐўлбЁ« ўаҐ¬п § Јаг§ЄЁ ­  34¬б.
+09:51:44  INFO Thread-5 Ship:loadToPort:207 - Љ®а Ў«м Ship5 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  336¬б.
+09:51:49  INFO Thread-1 Ship:loadToPort:207 - Љ®а Ў«м Ship1 ЇаҐўлбЁ« ўаҐ¬п ўлЈаг§ЄЁ ­  638¬б.
